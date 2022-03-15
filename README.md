@@ -33,19 +33,19 @@ proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan pe
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
 ## Jawab
-1. Saya akan melakukan perubahan pada tag html, gambar dibawah merupakan syntax HTML sebelum saya rubah
+1. Pastinya saya akan melakukan perubahan pada tag html, seperti pada gambar dibawah ini yang merupakan syntax HTML sebelum saya rubah
 ![img1!](img/1.PNG)
-Lalu ketika saya hilangkan akhiran pada Tag `</h1>`menjadi `<h1>`, maka yang akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>` dikarenakan tidak ada akhiran/penutup Tag tersebut.
-Seperti gambar dibawah
+Lalu setelah saya hilangkan akhiran pada Tag `</h1>`menjadi `<h1>`, maka yang akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>` karenakan tidak adanya akhiran atau penutup Tag tersebut.
+Contohnya seperti gambar dibawah
 ![img2!](img/2.PNG)
 
-2. Tag `<br>` berfungsi untuk melompati satu line, cocok untuk memulai paragraf baru, sedangkan tag `<p>` seperti menekan tombol enter di software document editor
+2. Tag `<br>` fungsinya untuk melompati satu line, cocok untuk memulai paragraf baru, sedangkan tag `<p>` seperti menekan tombol enter di software document editor
 ![img3!](img/paragraf-br-p.PNG)
 
-3. Perbedaan atribut `title` dan `alt` yaitu pada gambar yang dihasilkan, ketika gambar berhasil ditampilkan maka akan terlihat sebuah title. Sedangkan jka gambar gagal ditampilkan maka akan menampilkan teks dalam atribut alt tersebut
+3. Perbedaan atribut `title` dan `alt` yaitu pada gambar yang akan dihasilkan, ketika gambar berhasil ditampilkan maka akan terlihat atau muncul sebuah title. Sedangkan jka gambar gagal ditampilkan maka akan menampilkan teks dalam atribut alt tersebut.
 ![img4!](img/alt-title.PNG)
 
-4. Menurut saya lebih baik satu atribut saja agar aspek ratio gambar asli terjaga. Kecuali pada kondisi tertentu (seperti gambar yang sudah memiliki ukuran yg pas/proporsional) cukup mengatur width nya saja
+4. Menurut saya agar tampilan gambar proporsional sebaiknya menggunakan satu atribut. Agar specratio gambar asli tetap terjaga.
 ![img5!](img/image-atribute.PNG)
 
 5. `Nilai _blank` untuk membuka link di tab baru
